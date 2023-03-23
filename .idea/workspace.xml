@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cba0f56f-7d2f-416c-a7b3-e8b51e2d87b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/classdata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/cms.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/cmsdata (1).sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/createcanvas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/dbtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/displaystudents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/fees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/mainPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/newadmission.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/signUp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/sm2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem/sm_image.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NQ99fjzfztKuPT8QoGG6sjYTts" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cba0f56f-7d2f-416c-a7b3-e8b51e2d87b5" name="Changes" comment="" />
+      <created>1679585290783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679585290783</updated>
+    </task>
+    <servers />
+  </component>
+</project>
