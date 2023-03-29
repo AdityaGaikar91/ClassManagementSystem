@@ -1,7 +1,7 @@
 import pymysql
 
 def connection():
-    conn = pymysql.connect(host = 'localhost', user='root', password='12345678', db='cms')
+    conn = pymysql.connect(host = 'localhost', user='root', password='@adityaroot', db='cms')
     if(conn):
         print("Database Connected ")
     return conn
