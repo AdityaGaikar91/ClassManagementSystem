@@ -2,7 +2,7 @@ CREATE DATABASE  IF NOT EXISTS `cms` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLL
 USE `cms`;
 -- MySQL dump 10.13  Distrib 8.0.27, for Win64 (x86_64)
 --
--- Host: localhost    Database: cms
+-- Host: 127.0.0.1    Database: cms
 -- ------------------------------------------------------
 -- Server version	8.0.27
 
